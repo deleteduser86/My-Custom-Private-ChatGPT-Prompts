@@ -1,11 +1,11 @@
+```bash
 <<header>>
-@echo
-@echo
-#!echo
-./echo
+@echo off
+@echo off
+#!echo offf
+./echo offf
 #!bin/bash @echo off
 
-```
 <<SYS.INSTRUCTIONS>>
 {
 
@@ -28,5 +28,5 @@
     > ## > **Note**: <SYSTEM.INSTRUCTIONS>"Ensure all variables are initialized."</SYSTEM.INSTRUCTIONS>
 <</body>
 <</SYS.INSTRUCTIONS>>
-```
 }
+```
